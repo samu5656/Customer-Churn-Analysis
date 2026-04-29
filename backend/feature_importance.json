@@ -1,0 +1,82 @@
+[
+    {
+        "Feature": "TotalCharges",
+        "Importance": 0.16310730748832394
+    },
+    {
+        "Feature": "AvgCharges",
+        "Importance": 0.14255295720527186
+    },
+    {
+        "Feature": "MonthlyCharges",
+        "Importance": 0.13967505082226955
+    },
+    {
+        "Feature": "tenure",
+        "Importance": 0.1354055137704694
+    },
+    {
+        "Feature": "Contract",
+        "Importance": 0.07223235503454203
+    },
+    {
+        "Feature": "PaymentMethod",
+        "Importance": 0.043549368449651474
+    },
+    {
+        "Feature": "TechSupport",
+        "Importance": 0.04241489408767554
+    },
+    {
+        "Feature": "OnlineSecurity",
+        "Importance": 0.039302204333163476
+    },
+    {
+        "Feature": "OnlineBackup",
+        "Importance": 0.02423464761103626
+    },
+    {
+        "Feature": "gender",
+        "Importance": 0.023412716147130027
+    },
+    {
+        "Feature": "PaperlessBilling",
+        "Importance": 0.0232708847667174
+    },
+    {
+        "Feature": "InternetService",
+        "Importance": 0.022372454321512577
+    },
+    {
+        "Feature": "Partner",
+        "Importance": 0.020420881715825758
+    },
+    {
+        "Feature": "DeviceProtection",
+        "Importance": 0.02012184870412657
+    },
+    {
+        "Feature": "MultipleLines",
+        "Importance": 0.019169500610260837
+    },
+    {
+        "Feature": "SeniorCitizen",
+        "Importance": 0.018482023639222293
+    },
+    {
+        "Feature": "Dependents",
+        "Importance": 0.017441394700608702
+    },
+    {
+        "Feature": "StreamingMovies",
+        "Importance": 0.014269949190562762
+    },
+    {
+        "Feature": "StreamingTV",
+        "Importance": 0.014181151010307244
+    },
+    {
+        "Feature": "PhoneService",
+        "Importance": 0.004382896391322252
+    }
+]

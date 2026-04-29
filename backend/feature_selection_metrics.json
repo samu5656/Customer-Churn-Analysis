@@ -1,0 +1,57 @@
+[
+    {
+        "Model": "Logistic Regression",
+        "Before Accuracy": 0.8155,
+        "Before Precision": 0.6771,
+        "Before Recall": 0.5791,
+        "Before F1-score": 0.6243,
+        "After Accuracy": 0.8197,
+        "After Precision": 0.6889,
+        "After Recall": 0.5818,
+        "After F1-score": 0.6308
+    },
+    {
+        "Model": "Decision Tree",
+        "Before Accuracy": 0.7239,
+        "Before Precision": 0.4793,
+        "Before Recall": 0.496,
+        "Before F1-score": 0.4875,
+        "After Accuracy": 0.7168,
+        "After Precision": 0.4667,
+        "After Recall": 0.4879,
+        "After F1-score": 0.4771
+    },
+    {
+        "Model": "Random Forest",
+        "Before Accuracy": 0.7977,
+        "Before Precision": 0.6594,
+        "Before Recall": 0.4879,
+        "Before F1-score": 0.5609,
+        "After Accuracy": 0.8027,
+        "After Precision": 0.6703,
+        "After Recall": 0.5013,
+        "After F1-score": 0.5736
+    },
+    {
+        "Model": "KNN",
+        "Before Accuracy": 0.763,
+        "Before Precision": 0.5569,
+        "Before Recall": 0.5121,
+        "Before F1-score": 0.5335,
+        "After Accuracy": 0.7722,
+        "After Precision": 0.5756,
+        "After Recall": 0.5308,
+        "After F1-score": 0.5523
+    },
+    {
+        "Model": "Gradient Boosting",
+        "Before Accuracy": 0.802,
+        "Before Precision": 0.6632,
+        "Before Recall": 0.5121,
+        "Before F1-score": 0.5779,
+        "After Accuracy": 0.8062,
+        "After Precision": 0.6736,
+        "After Recall": 0.5201,
+        "After F1-score": 0.587
+    }
+]
